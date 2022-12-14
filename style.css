@@ -41,7 +41,7 @@ a,button{
 @media(width >= 500px){
     .login_card{
         margin: 0;
-        width: 400px;
+        width: 30%;
     }
 
    
